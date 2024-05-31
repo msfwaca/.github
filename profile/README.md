@@ -1,7 +1,7 @@
 
 # ![MSF Logo](https://www.msf.org/sites/msf.org/files/styles/thumbnail_420x320/public/logo-default.png?itok=H0tJ-RtP) Médecins Sans Frontières (MSF) Repository
 
-Welcome to the official Médecins Sans Frontières (MSF) repository! This repository is a centralized location for all projects concerning Health Information Systems (HIS), Epidemiology (EPI), and Geographic Information Systems (GIS).
+Welcome to the official Médecins Sans Frontières (MSF) WACA repository! This repository is a centralized location for all projects concerning Health Information Systems (HIS), Epidemiology (EPI), and Geographic Information Systems (GIS).
 
 ---
 
