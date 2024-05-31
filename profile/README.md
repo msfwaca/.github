@@ -1,5 +1,5 @@
 
-# ![MSF Logo](https://waca.msf.org/wp-content/uploads/2023/11/logomsfwaca1.png) Médecins Sans Frontières (MSF)WaCA Repository
+# ![MSF Logo](https://waca.msf.org/wp-content/uploads/2023/11/logomsfwaca1.png)
 
 Welcome to the official Médecins Sans Frontières (MSF) WACA repository! This repository is a centralized location for all projects concerning Health Information Systems (HIS), Epidemiology (EPI), and Geographic Information Systems (GIS).
 
