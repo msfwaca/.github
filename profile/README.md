@@ -1,5 +1,5 @@
 
-# ![MSF Logo](https://www.msf.org/) Médecins Sans Frontières (MSF) Repository
+# ![MSF Logo](https://waca.msf.org/wp-content/uploads/2023/11/logomsfwaca1.png) Médecins Sans Frontières (MSF) Repository
 
 Welcome to the official Médecins Sans Frontières (MSF) WACA repository! This repository is a centralized location for all projects concerning Health Information Systems (HIS), Epidemiology (EPI), and Geographic Information Systems (GIS).
 
@@ -18,8 +18,8 @@ Welcome to the official Médecins Sans Frontières (MSF) WACA repository! This r
 ---
 
 ## Introduction
-### Médecins Sans Frontières (MSF)
-Médecins Sans Frontières (MSF) is an international, independent medical humanitarian organization. Our mission is to provide medical care to those in need, regardless of race, religion, or political affiliation. This repository serves as a hub for our technological projects in the fields of Health Information Systems, Epidemiology, and Geographic Information Systems.
+### Médecins Sans Frontières (MSF) WaCA
+Médecins Sans Frontières (MSF) WaCA is an international, independent medical humanitarian organization. Our mission is to provide medical care to those in need, regardless of race, religion, or political affiliation. This repository serves as a hub for our technological projects in the fields of Health Information Systems, Epidemiology, and Geographic Information Systems.
 
 ---
 
