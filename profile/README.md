@@ -1,5 +1,5 @@
 
-# ![MSF Logo](https://waca.msf.org/wp-content/uploads/2023/11/logomsfwaca1.png) Médecins Sans Frontières (MSF) Repository
+# ![MSF Logo](https://waca.msf.org/wp-content/uploads/2023/11/logomsfwaca1.png) Médecins Sans Frontières (MSF)WaCA Repository
 
 Welcome to the official Médecins Sans Frontières (MSF) WACA repository! This repository is a centralized location for all projects concerning Health Information Systems (HIS), Epidemiology (EPI), and Geographic Information Systems (GIS).
 
@@ -29,18 +29,17 @@ This repository hosts a variety of projects categorized into three main areas: H
 ### Health Information Systems (HIS)
 Health Information Systems projects focus on the collection, management, and use of health data to improve patient care and public health outcomes.
 
-- **Coming Soon**: Description of HIS.
+- **Coming Soon 🛠️**
 
 ### Epidemiology (EPI)
 Epidemiology projects aim to study the distribution and determinants of health and disease conditions in specified populations to control health problems.
 
-- **Coming Soon**: Description of EPI.
-
+- **Coming Soon 🛠️**
 
 ### Geographic Information Systems (GIS)
 Geographic Information Systems projects involve the use of spatial and geographic data to analyze and visualize health data for better decision-making.
 
-- **Coming Soon**: Description of GIS.
+- **Coming Soon 🛠️**
 
 ---
 
@@ -68,6 +67,6 @@ For any questions, please contact us at [mail](msfw-epi-data-gis@waca.msf.org).
 
 ---
 
-Thank you for your interest in MSF's technological projects! Together, we can make a difference in global health.
+Thank you for your interest in MSF WaCA's technological projects! Together, we can make a difference in global health.
 
 ---
