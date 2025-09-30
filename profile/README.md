@@ -7,7 +7,7 @@ Akwaba! to the official Médecins Sans Frontières (MSF) WACA repository! This r
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Information Systems (HIS)](#information-systems)
+  - [Information Systems (IS)](#information-systems)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
