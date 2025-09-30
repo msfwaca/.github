@@ -21,13 +21,8 @@ Médecins Sans Frontières (MSF) WaCA is an international, independent medical h
 ---
 
 ## Projects
-This repository hosts a variety of projects categorized into three main areas: Health Information Systems, Epidemiology, and Geographic Information Systems. Below is a brief overview of each category and the projects contained within them.
+This repository hosts a variety of projects witihin WacA: 
 
-### Information Systems (HIS)
-Health Information Systems projects focus on the collection, management, and use of health data to improve patient care and public health outcomes.
-
-- **Coming Soon 🛠️**
----
 
 ## Contributing
 We welcome contributions from everyone! If you are interested in contributing to our projects, please follow these steps:
