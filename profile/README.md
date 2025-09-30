@@ -1,15 +1,13 @@
 
 
-Welcome to the official Médecins Sans Frontières (MSF) WACA repository! This repository is a centralized location for all projects concerning Health Information Systems (HIS), Epidemiology (EPI), and Geographic Information Systems (GIS).
+Akwaba! to the official Médecins Sans Frontières (MSF) WACA repository! This repository is a centralized location for all projects concerning Information Systems (HIS).
 
 ---
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Health Information Systems (HIS)](#health-information-systems-his)
-  - [Epidemiology (EPI)](#epidemiology-epi)
-  - [Geographic Information Systems (GIS)](#geographic-information-systems-gis)
+  - [Information Systems (HIS)](#information-systems)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -25,21 +23,10 @@ Médecins Sans Frontières (MSF) WaCA is an international, independent medical h
 ## Projects
 This repository hosts a variety of projects categorized into three main areas: Health Information Systems, Epidemiology, and Geographic Information Systems. Below is a brief overview of each category and the projects contained within them.
 
-### Health Information Systems (HIS)
+### Information Systems (HIS)
 Health Information Systems projects focus on the collection, management, and use of health data to improve patient care and public health outcomes.
 
 - **Coming Soon 🛠️**
-
-### Epidemiology (EPI)
-Epidemiology projects aim to study the distribution and determinants of health and disease conditions in specified populations to control health problems.
-
-- **Coming Soon 🛠️**
-
-### Geographic Information Systems (GIS)
-Geographic Information Systems projects involve the use of spatial and geographic data to analyze and visualize health data for better decision-making.
-
-- **Coming Soon 🛠️**
-
 ---
 
 ## Contributing
@@ -66,6 +53,6 @@ For any questions, please contact us at [mail](msfw-epi-data-gis@waca.msf.org).
 
 ---
 
-Thank you for your interest in MSF WaCA's technological projects! Together, we can make a difference in global health.
+Thank you for your interest in MSF WaCA's IS projects! Together, we can make a difference in global health.
 
 ---
